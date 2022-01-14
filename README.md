@@ -1,4 +1,4 @@
-Hi, I'm Alice (they/them) :rainbow_flag:
+Hi, I'm Ally (they/them) :rainbow_flag:
 
 :heart: :
 - Music (punk rock)
