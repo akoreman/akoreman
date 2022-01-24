@@ -13,8 +13,16 @@ degree taught me; Specifically in game dev/computer graphics.
 
 **Mesh Path tracing**
 
+<img src="https://raw.github.com/akoreman/akoreman/main/images/path.png" width="400">  
+
 **Fractal Ray Marching**
+
+<img src="https://raw.github.com/akoreman/akoreman/main/images/fractal.png" width="400">  
 
 **Forward Rendering Pipeline**
 
+<img src="https://raw.github.com/akoreman/akoreman/main/images/sampleRender.png" width="400">  
+
 **Small game: Tabletop Ising Model**
+
+<img src="https://raw.github.com/akoreman/akoreman/main/images/ising.png" width="400">  
