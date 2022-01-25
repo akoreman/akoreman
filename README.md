@@ -13,6 +13,10 @@ degree taught me. <!-- Specifically in game dev/computer graphics. -->
 
 # Portfolio
 
+**Small game: Tabletop Ising Model**
+
+<img src="https://raw.github.com/akoreman/akoreman/main/images/ising.png" width="400"> 
+
 **Mesh Path tracing**
 
 <img src="https://raw.github.com/akoreman/akoreman/main/images/path.png" width="400">  
@@ -24,7 +28,4 @@ degree taught me. <!-- Specifically in game dev/computer graphics. -->
 **Forward Rendering Pipeline**
 
 <img src="https://raw.github.com/akoreman/akoreman/main/images/sampleRender.png" width="400">  
-
-**Small game: Tabletop Ising Model**
-
-<img src="https://raw.github.com/akoreman/akoreman/main/images/ising.png" width="400">  
+ 
