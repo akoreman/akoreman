@@ -11,7 +11,7 @@ Recently graduated as a computational physicist  (MSc/Summa cum laude) with a sp
 in quantum computing and quantum algorithms from Leiden University. Currently looking for work. <!-- Currently looking for a job that combines my love for programming with the mathematical skills my
 degree taught me.  Specifically in game dev/computer graphics. -->
 
-# Portfolio (See respective pages for details)
+# Portfolio (Click image for link to Github page)
 
 **Small game: Tabletop Ising Model (Unity3D)**
 
@@ -31,5 +31,5 @@ degree taught me.  Specifically in game dev/computer graphics. -->
 
 **Barnes-Hut tree simulation for many-body interactions (Simulation using C#/Animations using Python/MatPlotLib)
 
-<a href="https://www.w3schools.com"><img src="https://raw.github.com/akoreman/akoreman/main/images/sampleRender.png" width="400">  
+<a href="https://github.com/akoreman/Planetary-Dynamics-Barnes-Hut"><img src="https://raw.github.com/akoreman/akoreman/main/images/sampleRender.png" width="400">  
  
