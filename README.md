@@ -32,4 +32,8 @@ degree taught me.  Specifically in game dev/computer graphics. -->
 **Barnes-Hut tree simulation for many-body interactions (Simulation using C#/Animations using Python/MatPlotLib)**  
 
 <a href="https://github.com/akoreman/Planetary-Dynamics-Barnes-Hut"><img src="https://raw.github.com/akoreman/akoreman/main/images/Collision.PNG" width="400"></a>  
+
+**Using the weight matrix of a CNN to find the transition temperature of the Ising model**
+
+<a href="https://github.com/akoreman/Convolutional-NN-Ising-Model-Temperature"><img src="https://raw.github.com/akoreman/akoreman/main/images/WeightMatrix.jpg" width="400"></a> 
  
