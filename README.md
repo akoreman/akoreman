@@ -15,21 +15,21 @@ degree taught me.  Specifically in game dev/computer graphics. -->
 
 **Small game: Tabletop Ising Model (Unity3D)**
 
-<img src="https://raw.github.com/akoreman/akoreman/main/images/ising.png" width="400"> 
+<a href="https://github.com/akoreman/Tabletop-Ising-Model-Game"><img src="https://raw.github.com/akoreman/akoreman/main/images/ising.png" width="400"> 
 
 **Mesh Path Tracing (HLSL Compute Shader)**
 
-<img src="https://raw.github.com/akoreman/akoreman/main/images/path.png" width="400">  
+<a href="https://github.com/akoreman/Compute-Shader-Mesh-Path-Tracing"><img src="https://raw.github.com/akoreman/akoreman/main/images/path.png" width="400">  
 
 **Fractal Ray Marching (HLSL Compute Shader)**
 
-<img src="https://raw.github.com/akoreman/akoreman/main/images/fractal.png" width="400">  
+<a href="https://github.com/akoreman/Compute-Shader-Fractal-Ray-Marching"><img src="https://raw.github.com/akoreman/akoreman/main/images/fractal.png" width="400">  
 
 **Forward Rendering Pipeline (Custom Unity3D SRP)**
 
-<img src="https://raw.github.com/akoreman/akoreman/main/images/sampleRender.png" width="400">  
+<a href="https://github.com/akoreman/Render-Pipeline"><img src="https://raw.github.com/akoreman/akoreman/main/images/sampleRender.png" width="400">  
 
-**Barnes-Hut tree simulation for many-body interactions (Simulation using C#/Animations using Python/MatPlotLib)
+**Barnes-Hut tree simulation for many-body interactions (Simulation using C#/Animations using Python/MatPlotLib)**  
 
 <a href="https://github.com/akoreman/Planetary-Dynamics-Barnes-Hut"><img src="https://raw.github.com/akoreman/akoreman/main/images/sampleRender.png" width="400">  
  
