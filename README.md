@@ -31,5 +31,5 @@ degree taught me.  Specifically in game dev/computer graphics. -->
 
 **Barnes-Hut tree simulation for many-body interactions (Simulation using C#/Animations using Python/MatPlotLib)**  
 
-<a href="https://github.com/akoreman/Planetary-Dynamics-Barnes-Hut"><img src="https://raw.github.com/akoreman/akoreman/main/images/sampleRender.png" width="400"></a>  
+<a href="https://github.com/akoreman/Planetary-Dynamics-Barnes-Hut"><img src="https://raw.github.com/akoreman/akoreman/main/images/Collision.PNG" width="400"></a>  
  
