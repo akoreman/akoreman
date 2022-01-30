@@ -28,4 +28,8 @@ degree taught me.  Specifically in game dev/computer graphics. -->
 **Forward Rendering Pipeline (Custom Unity3D SRP)**
 
 <img src="https://raw.github.com/akoreman/akoreman/main/images/sampleRender.png" width="400">  
+
+**Barnes-Hut tree simulation for many-body interactions (Simulation using C#/Animations using Python/MatPlotLib)
+
+<a href="https://www.w3schools.com"><img src="https://raw.github.com/akoreman/akoreman/main/images/sampleRender.png" width="400">  
  
