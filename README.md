@@ -1,8 +1,8 @@
 # Biography
 
-Hi, I'm Ally (they/them) :rainbow_flag:
+Hi, I'm Ally
 
-:heart: :
+:heart: 
 - Music (punk rock)
 - Video and board games
 - Art
