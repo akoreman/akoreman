@@ -19,7 +19,7 @@ degree taught me.  Specifically in game dev/computer graphics. -->
 
 **Mesh Path Tracing (HLSL Compute Shader)**
 
-<a href="https://github.com/akoreman/Compute-Shader-Mesh-Path-Tracing"><img src="https://raw.github.com/akoreman/akoreman/main/images/path.png" width="400"></a>  
+<a href="https://github.com/akoreman/Compute-Shader-Mesh-Path-Tracing"><img src="https://raw.github.com/akoreman/akoreman/main/images/RayScene.png" width="400"></a>  
 
 **Fractal Ray Marching (HLSL Compute Shader)**
 
