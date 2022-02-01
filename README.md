@@ -17,11 +17,11 @@ degree taught me.  Specifically in game dev/computer graphics. -->
 
 <a href="https://github.com/akoreman/Tabletop-Ising-Model-Game"><img src="https://raw.github.com/akoreman/akoreman/main/images/ising.png" width="400"></a>
 
-**Mesh Path Tracing (HLSL Compute Shader)**
+**Mesh Path Tracing (HLSL/Unity3D)**
 
 <a href="https://github.com/akoreman/Compute-Shader-Mesh-Path-Tracing"><img src="https://raw.github.com/akoreman/akoreman/main/images/RayScene.png" width="400"></a>  
 
-**Fractal Ray Marching (HLSL Compute Shader)**
+**Fractal Ray Marching (HLSL/Unity3D)**
 
 <a href="https://github.com/akoreman/Compute-Shader-Fractal-Ray-Marching"><img src="https://raw.github.com/akoreman/akoreman/main/images/fractal.png" width="400"></a>  
 
