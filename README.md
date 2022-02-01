@@ -25,7 +25,7 @@ degree taught me.  Specifically in game dev/computer graphics. -->
 
 <a href="https://github.com/akoreman/Compute-Shader-Fractal-Ray-Marching"><img src="https://raw.github.com/akoreman/akoreman/main/images/fractal.png" width="400"></a>  
 
-**Forward Rendering Pipeline (Custom Unity3D SRP)**
+**Forward Rendering Pipeline (Custom Unity3D SRP/HLSL)**
 
 <a href="https://github.com/akoreman/Render-Pipeline"><img src="https://raw.github.com/akoreman/akoreman/main/images/sampleRender.png" width="400"></a>  
 
