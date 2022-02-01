@@ -29,14 +29,14 @@ degree taught me.  Specifically in game dev/computer graphics. -->
 
 <a href="https://github.com/akoreman/Render-Pipeline"><img src="https://raw.github.com/akoreman/akoreman/main/images/sampleRender.png" width="400"></a>  
 
-**Barnes-Hut tree simulation for many-body interactions (Simulation using C# & Animations using Python/MatPlotLib)**  
+**Barnes-Hut Tree Simulation for Many-Body Interactions (Simulation Using C# & Animations Using Python/MatPlotLib)**  
 
 <a href="https://github.com/akoreman/Planetary-Dynamics-Barnes-Hut"><img src="https://raw.github.com/akoreman/akoreman/main/images/Collision.PNG" width="400"></a>  
 
-**Using the weight matrix of a CNN to find the transition temperature of the Ising model (Python/Keras)**
+**Convolutional Neural Networks for Finding the Critical Temperature of the Ising Model (Python/Keras)**
 
 <a href="https://github.com/akoreman/Convolutional-NN-Ising-Model-Temperature"><img src="https://raw.github.com/akoreman/akoreman/main/images/WeightMatrix.jpg" width="400"></a> 
  
- **2D Mandelbrot set visualisation (C#)**
+ **2D Mandelbrot Set Visualisation (C#)**
  
  <a href="https://github.com/akoreman/Mandelbrot-Plot"><img src="https://raw.github.com/akoreman/akoreman/main/images/mandel.png" width="400"> </a> 
