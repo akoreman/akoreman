@@ -37,3 +37,6 @@ degree taught me.  Specifically in game dev/computer graphics. -->
 
 <a href="https://github.com/akoreman/Convolutional-NN-Ising-Model-Temperature"><img src="https://raw.github.com/akoreman/akoreman/main/images/WeightMatrix.jpg" width="400"></a> 
  
+ **2D Mandelbrot set visualisation (C#)**
+ 
+ <a href="https://github.com/akoreman/Mandelbrot-Plot"><img src="https://raw.github.com/akoreman/akoreman/main/images/mandel.png" width="400"> </a> 
