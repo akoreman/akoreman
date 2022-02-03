@@ -29,7 +29,7 @@ degree taught me.  Specifically in game dev/computer graphics. -->
 
 <a href="https://github.com/akoreman/Render-Pipeline"><img src="https://raw.github.com/akoreman/akoreman/main/images/sampleRender.png" width="400"></a>  
 
-**Barnes-Hut Tree Simulation for Many-Body Interactions (Simulation Using C# & Animations Using Python/MatPlotLib)**  
+**Barnes-Hut Tree Simulation for Many-Body Interactions (Simulation: C# & Animations: Python/MatPlotLib)**  
 
 <a href="https://github.com/akoreman/Planetary-Dynamics-Barnes-Hut"><img src="https://raw.github.com/akoreman/akoreman/main/images/Collision.PNG" width="400"></a>  
 
