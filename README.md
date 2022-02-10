@@ -8,7 +8,7 @@ Hi, I'm Ally
 - Art
  
 Recently graduated as a computational physicist  (MSc/Summa cum laude) with a specialisation 
-in quantum computing and quantum algorithms from Leiden University. Further long-held passion for computer graphics (and programming in general). Currently looking for work. <!-- Currently looking for a job that combines my love for programming with the mathematical skills my
+in quantum computing and quantum algorithms from Leiden University, the Netherlands. Further long-held passion for computer graphics (and programming in general). Currently looking for work. <!-- Currently looking for a job that combines my love for programming with the mathematical skills my
 degree taught me.  Specifically in game dev/computer graphics. -->
 
 
