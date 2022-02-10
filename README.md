@@ -11,6 +11,7 @@ Recently graduated as a computational physicist  (MSc/Summa cum laude) with a sp
 in quantum computing and quantum algorithms from Leiden University. Further long-held passion for computer graphics (and programming in general). Currently looking for work. <!-- Currently looking for a job that combines my love for programming with the mathematical skills my
 degree taught me.  Specifically in game dev/computer graphics. -->
 
+
 # Portfolio (Click image for link to Github page)
 
 **Small game: Tabletop Ising Model (Unity3D)**
