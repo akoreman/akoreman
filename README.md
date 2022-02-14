@@ -25,7 +25,8 @@ degree taught me.  Specifically in game dev/computer graphics. -->
 
 **Fractal Ray Marching (HLSL/Unity3D)**
 
-<a href="https://github.com/akoreman/Compute-Shader-Fractal-Ray-Marching"><img src="https://raw.github.com/akoreman/akoreman/main/images/fractal.png" width="400"></a>  
+<a href="https://github.com/akoreman/Compute-Shader-Fractal-Ray-Marching"><img src="https://raw.github.com/akoreman/akoreman/main/images/fractal.png" width="400"></a>
+<a href="https://github.com/akoreman/Compute-Shader-Fractal-Ray-Marching"><img src="https://raw.github.com/akoreman/akoreman/main/images/TriangleFractal.png" width="400"></a>  
 
 **Forward Rendering Pipeline (Custom Unity3D SRP/HLSL)**
 
