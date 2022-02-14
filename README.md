@@ -47,4 +47,5 @@ degree taught me.  Specifically in game dev/computer graphics. -->
  
  **2D Mandelbrot Set Visualisation (C#)**
  
- <a href="https://github.com/akoreman/Mandelbrot-Plot"><img src="https://raw.github.com/akoreman/akoreman/main/images/mandel.png" width="400"> </a> 
+<a href="https://github.com/akoreman/Mandelbrot-Plot"><img src="https://raw.github.com/akoreman/akoreman/main/images/mandel.png" width="400"></a>
+<a href="https://github.com/akoreman/Mandelbrot-Plot"><img src="https://raw.github.com/akoreman/akoreman/main/images/mandelTwo.png" width="400"></a>
