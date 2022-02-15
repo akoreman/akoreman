@@ -1,4 +1,3 @@
-# Biography
 
 Hi, I'm Ally
 
