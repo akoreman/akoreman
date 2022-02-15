@@ -32,7 +32,7 @@ degree taught me.  Specifically in game dev/computer graphics. -->
 
 <a href="https://github.com/akoreman/Render-Pipeline"><img src="https://raw.github.com/akoreman/akoreman/main/images/sampleRender.png" width="400"></a>  
 
-**Marching cubes fluid effect (Unity3D)**
+**Marching Cubes for Blobby Fluid Effect (Unity3D)**
 
 <a href="https://github.com/akoreman/Marching-Cubes-Metaballs"><img src="https://raw.github.com/akoreman/akoreman/main/images/Metaballs.gif" width="400"></a>
 <a href="https://github.com/akoreman/Marching-Cubes-Metaballs"><img src="https://raw.github.com/akoreman/akoreman/main/images/FluidJitter.gif" width="400"></a>
