@@ -11,7 +11,7 @@ in quantum computing and quantum algorithms from Leiden University, the Netherla
 degree taught me.  Specifically in game dev/computer graphics. -->
 
 
-# Portfolio (Non-visual projects listed as pinned projects, click images for link to repo)
+# Portfolio (Non-visual projects listed as pinned, click images for repo link)
 
 **Small game: Tabletop Ising Model (Unity3D)**
 
