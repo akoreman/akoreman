@@ -29,7 +29,7 @@ degree taught me.  Specifically in game dev/computer graphics. -->
 
 **Forward Rendering Pipeline (Custom Unity3D SRP/HLSL)**
 
-<a href="https://github.com/akoreman/Render-Pipeline"><img src="https://raw.github.com/akoreman/akoreman/main/images/sampleRender.png" width="400"></a>
+<a href="https://github.com/akoreman/Render-Pipeline"><img src="https://raw.github.com/akoreman/akoreman/main/images/sampleRender.PNG" width="400"></a>
 <a href="https://github.com/akoreman/Render-Pipeline"><img src="https://raw.github.com/akoreman/akoreman/main/images/Reflections.png" width="400"></a>  
 
 **Marching Cubes for Blobby Fluid Effect (Unity3D)**
