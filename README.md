@@ -39,7 +39,8 @@ degree taught me.  Specifically in game dev/computer graphics. -->
 
 **Barnes-Hut Tree Simulation for Efficient Many-Body Interactions (Simulation: C#, Animation: Python/MatPlotLib)**  
 
-<a href="https://github.com/akoreman/Planetary-Dynamics-Barnes-Hut"><img src="https://raw.github.com/akoreman/akoreman/main/images/Collision.PNG" width="400"></a>  
+<a href="https://github.com/akoreman/Planetary-Dynamics-Barnes-Hut"><img src="https://raw.github.com/akoreman/akoreman/main/images/Collision.PNG" width="400"></a>
+<a href="https://github.com/akoreman/Planetary-Dynamics-Barnes-Hut"><img src="https://raw.github.com/akoreman/akoreman/main/images/CollisionAnim.gif" width="400"></a>  
 
 **Convolutional Neural Networks for Finding the Critical Temperature of the Ising Model (Python/Keras)**
 
