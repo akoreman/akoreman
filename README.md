@@ -39,7 +39,7 @@ degree taught me.  Specifically in game dev/computer graphics. -->
 
 **Deferred Rendering Pipeline (Custom Unity3D SRP/HLSL Shaders)**
 
-<a href="https://github.com/akoreman/Deferred-Render-Pipeline"><img src="https://raw.github.com/akoreman/akoreman/main/images/GBufferNormals.PNG" width="400"></a>
+<a href="https://github.com/akoreman/Deferred-Render-Pipeline"><img src="https://raw.github.com/akoreman/akoreman/main/images/GBufferNormals.png" width="400"></a>
 <a href="https://github.com/akoreman/Deferred-Render-Pipeline"><img src="https://raw.github.com/akoreman/akoreman/main/images/DiffuseShaded.png" width="400"></a> 
 
 **Barnes-Hut Tree Simulation for Efficient Many-Body Interactions (Simulation: C#, Animation: Python/MatPlotLib)**  
