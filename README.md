@@ -9,7 +9,7 @@ Hi, I'm Ally
 Software engineer, background as a computational physicist (MSc/Summa cum laude) with a specialisation 
 in quantum computing and quantum algorithms from Leiden University, the Netherlands. Further long-held passion for computer graphics and game programming. 
 
-# Portfolio (Non-visual projects listed as pinned, click images for repo link)
+# Portfolio (Non-graphical projects listed as pinned, click images for repo link)
 
 **Small game: Tabletop Ising Model (Unity3D)**
 
