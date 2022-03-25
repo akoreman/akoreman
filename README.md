@@ -6,7 +6,7 @@ Hi, I'm Ally
 - Video and board games
 - Art
  
-Background as a computational physicist (MSc/Summa cum laude) with a specialisation 
+Software engineer, background as a computational physicist (MSc/Summa cum laude) with a specialisation 
 in quantum computing and quantum algorithms from Leiden University, the Netherlands. Further long-held passion for computer graphics and game programming. 
 
 # Portfolio (Non-visual projects listed as pinned, click images for repo link)
