@@ -1,5 +1,5 @@
 
-Hi, I'm Ally
+Hi, I'm Ally (they/them)
 
 :heart: 
 - Music (punk rock)
