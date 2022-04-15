@@ -25,7 +25,7 @@ in quantum computing and quantum algorithms from Leiden University, the Netherla
 <a href="https://github.com/akoreman/Compute-Shader-Fractal-Ray-Marching"><img src="https://raw.github.com/akoreman/akoreman/main/images/fractal.png" width="400"></a>
 <a href="https://github.com/akoreman/Compute-Shader-Fractal-Ray-Marching"><img src="https://raw.github.com/akoreman/akoreman/main/images/TriangleFractal.png" width="400"></a>  
 
-**Forward Rendering Pipeline (Custom Unity3D SRP/HLSL Shaders)**
+**Custom Scriptable Forward Rendering Pipeline (Custom Unity3D SRP/HLSL Shaders)**
 
 <a href="https://github.com/akoreman/Render-Pipeline"><img src="https://raw.github.com/akoreman/akoreman/main/images/sampleRender.PNG" width="400"></a>
 <a href="https://github.com/akoreman/Render-Pipeline"><img src="https://raw.github.com/akoreman/akoreman/main/images/Reflections.png" width="400"></a>  
