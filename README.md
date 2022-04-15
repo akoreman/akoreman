@@ -35,7 +35,7 @@ in quantum computing and quantum algorithms from Leiden University, the Netherla
 <a href="https://github.com/akoreman/Marching-Cubes-Metaballs"><img src="https://raw.github.com/akoreman/akoreman/main/images/Metaballs.gif" width="400"></a>
 <a href="https://github.com/akoreman/Marching-Cubes-Metaballs"><img src="https://raw.github.com/akoreman/akoreman/main/images/FluidJitter.gif" width="400"></a>
 
-**Deferred Rendering Pipeline (Custom Unity3D SRP/HLSL Shaders)**
+**Custom Scriptable Deferred Rendering Pipeline (Custom Unity3D SRP/HLSL Shaders)**
 
 <a href="https://github.com/akoreman/Deferred-Render-Pipeline"><img src="https://raw.github.com/akoreman/akoreman/main/images/GBufferNormals.png" width="400"></a>
 <a href="https://github.com/akoreman/Deferred-Render-Pipeline"><img src="https://raw.github.com/akoreman/akoreman/main/images/DiffuseShaded.png" width="400"></a> 
