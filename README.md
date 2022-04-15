@@ -15,7 +15,7 @@ in quantum computing and quantum algorithms from Leiden University, the Netherla
 
 <a href="https://github.com/akoreman/Tabletop-Ising-Model-Game"><img src="https://raw.github.com/akoreman/akoreman/main/images/ising.png" width="400"></a>
 
-**Mesh Path Tracing (HLSL Compute Shader/Unity3D)**
+**Mesh/GameObject Path Tracing (HLSL Compute Shader/Unity3D)**
 
 <a href="https://github.com/akoreman/Compute-Shader-Mesh-Path-Tracing"><img src="https://raw.github.com/akoreman/akoreman/main/images/RayScene.png" width="400"></a>
 <a href="https://github.com/akoreman/Compute-Shader-Mesh-Path-Tracing"><img src="https://raw.github.com/akoreman/akoreman/main/images/PathSpheres.png" width="400"></a>  
