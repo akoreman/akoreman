@@ -9,7 +9,7 @@ Hi, I'm Alice (she/they)
 Software development engineer, background as a computational physicist (MSc/Summa cum laude) with a specialisation 
 in quantum computing and quantum algorithms from Leiden University, the Netherlands. Passion for computer graphics and video game development. 
 
-# Portfolio (Non-graphical projects listed as pinned, click images for repo link)
+# Portfolio (Non-graphical projects as pinned, click images for link)
 
 **Small game: Tabletop Ising Model (Unity3D)**
 
