@@ -7,7 +7,7 @@ Hi, I'm Alice (she/they)
 - Art
  
 Software development engineer, background as a computational physicist (MSc/Summa cum laude) with a specialisation 
-in quantum computing and quantum algorithms. Passion for computer graphics and video game development. 
+in quantum computing and quantum algorithms. Passion for computer graphics, video game development and machine-learning fundamentals. 
 
 # Portfolio (Non-graphical projects as pinned, click images for link)
 
