@@ -11,7 +11,7 @@ in quantum computing and quantum algorithms. Passion for computer graphics, vide
 
 # Portfolio (Non-graphical projects as pinned, click images for link)
 
-**Small game: Tabletop Ising Model (Unity3D)**
+**Small game: Tabletop Ising Model (Unity3D/C#)**
 
 <a href="https://github.com/akoreman/Tabletop-Ising-Model-Game"><img src="https://raw.github.com/akoreman/akoreman/main/images/ising.png" width="400"></a>
 
@@ -30,15 +30,17 @@ in quantum computing and quantum algorithms. Passion for computer graphics, vide
 <a href="https://github.com/akoreman/Render-Pipeline"><img src="https://raw.github.com/akoreman/akoreman/main/images/sampleRender.PNG" width="400"></a>
 <a href="https://github.com/akoreman/Render-Pipeline"><img src="https://raw.github.com/akoreman/akoreman/main/images/Reflections.png" width="400"></a>  
 
+**Custom Scriptable Deferred Rendering Pipeline (Custom Unity3D SRP/HLSL Shaders)**
+
+<a href="https://github.com/akoreman/Deferred-Render-Pipeline"><img src="https://raw.github.com/akoreman/akoreman/main/images/GBufferNormals.png" width="400"></a>
+<a href="https://github.com/akoreman/Deferred-Render-Pipeline"><img src="https://raw.github.com/akoreman/akoreman/main/images/DiffuseShaded.png" width="400"></a> 
+
 **Multi-Threaded Marching Cubes Algorithm for Generating Meshes (Unity3D/Unity C# Job System + Burst Compiler)**
 
 <a href="https://github.com/akoreman/Marching-Cubes-Metaballs"><img src="https://raw.github.com/akoreman/akoreman/main/images/Metaballs.gif" width="400"></a>
 <a href="https://github.com/akoreman/Marching-Cubes-Metaballs"><img src="https://raw.github.com/akoreman/akoreman/main/images/FluidJitter.gif" width="400"></a>
 
-**Custom Scriptable Deferred Rendering Pipeline (Custom Unity3D SRP/HLSL Shaders)**
-
-<a href="https://github.com/akoreman/Deferred-Render-Pipeline"><img src="https://raw.github.com/akoreman/akoreman/main/images/GBufferNormals.png" width="400"></a>
-<a href="https://github.com/akoreman/Deferred-Render-Pipeline"><img src="https://raw.github.com/akoreman/akoreman/main/images/DiffuseShaded.png" width="400"></a> 
+**Terraforming Game Mechanic Based on Marching Cubes Algorithm (Unity3D/C#)**
 
 **Barnes-Hut Tree Simulation for Efficient Many-Body Interactions (Simulation: C#, Animation: Python/MatPlotLib)**  
 
