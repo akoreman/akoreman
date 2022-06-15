@@ -42,6 +42,9 @@ in quantum computing and quantum algorithms. Passion for computer graphics, vide
 
 **Terraforming Game Mechanic Based on Marching Cubes Algorithm (Unity3D/C#)**
 
+<a href="https://github.com/akoreman/Marching-Cubes-Terraforming"><img src="https://raw.github.com/akoreman/akoreman/main/images/terraformingone.gif" width="400"></a>
+<a href="https://github.com/akoreman/Marching-Cubes-Terraforming"><img src="https://raw.github.com/akoreman/akoreman/main/images/terraformingtwo.gif" width="400"></a>
+
 **Barnes-Hut Tree Simulation for Efficient Many-Body Interactions (Simulation: C#, Animation: Python/MatPlotLib)**  
 
 <a href="https://github.com/akoreman/Planetary-Dynamics-Barnes-Hut"><img src="https://raw.github.com/akoreman/akoreman/main/images/Collision.PNG" width="400"></a>
