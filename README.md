@@ -37,8 +37,8 @@ in quantum computing and quantum algorithms. Passion for computer graphics, vide
 
 **Multi-Threaded Marching Cubes Algorithm for Generating Meshes (Unity3D/Unity C# Job System + Burst Compiler)**
 
-<a href="https://github.com/akoreman/Marching-Cubes-Metaballs"><img src="https://raw.github.com/akoreman/akoreman/main/images/Metaballs.gif" width="400"></a>
-<a href="https://github.com/akoreman/Marching-Cubes-Metaballs"><img src="https://raw.github.com/akoreman/akoreman/main/images/FluidJitter.gif" width="400"></a>
+<a href="https://github.com/akoreman/Marching-Cubes-Unity-Job-System"><img src="https://raw.github.com/akoreman/akoreman/main/images/Metaballs.gif" width="400"></a>
+<a href="https://github.com/akoreman/Marching-Cubes-Unity-Job-System"><img src="https://raw.github.com/akoreman/akoreman/main/images/FluidJitter.gif" width="400"></a>
 
 **Terraforming Game Mechanic Based on Marching Cubes Algorithm (Unity3D/C#)**
 
