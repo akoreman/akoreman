@@ -6,8 +6,8 @@ Hi, I'm Alice (she/they)
 - Video and board games
 - Art
  
-Currently working as software engineer, background as a computational physicist (MSc/Summa cum laude) with a specialisation 
-in quantum computing and quantum algorithms. Passion for computer graphics, machine-learning fundamentals and numerical simulation. 
+Currently working as a software engineer, background as a computational physicist (MSc/Summa cum laude) with a specialisation 
+in quantum computing and quantum algorithms. Further passion for computer graphics, machine-learning theory/fundamentals and numerical simulation. 
 
 # Portfolio (Non-graphical projects as pinned, click images for link)
 
