@@ -1,13 +1,14 @@
 
 Hi, I'm Alice (she/they)
 
-:heart: 
-- Music (punk rock)
-- Video and board games
-- Art
- 
 Software engineer. Background as a computational physicist (MSc/Summa cum laude) with a specialisation 
 in quantum computing and quantum algorithms. Further passion for computer graphics, machine-learning fundamentals, numerical simulation. 
+
+:heart: 
+- Music (punk rock & analog music synthesis)
+- Video and board games
+- Art
+
 
 # Portfolio (Non-graphical projects as pinned, click images for link)
 
