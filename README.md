@@ -1,8 +1,8 @@
 
 Hi, I'm Alice (she/they)
 
-Software engineer. Background as a computational physicist (MSc/Summa cum laude) with a specialisation 
-in quantum computing and quantum algorithms. Further passion for computer graphics, machine-learning fundamentals, numerical simulation. 
+Currently working as software engineer, background in computational physics (MSc/Summa cum laude) with a specialisation 
+in quantum computing/algorithms/ML. Further passion for computer graphics, machine-learning fundamentals, numerical simulation. 
 
 :heart: 
 - Music (punk rock & analog music synthesis)
