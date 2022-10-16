@@ -1,7 +1,7 @@
 
 Hi, I'm Alice (she/they)
 
-Currently working as software engineer, background in computational physics (MSc/Summa cum laude) with a specialisation 
+Currently working as software development engineer, background in computational physics (MSc/Summa cum laude) with a specialisation 
 in quantum computing/algorithms/ML. Further passion for computer graphics, machine-learning fundamentals, numerical simulation. 
 
 :heart: 
